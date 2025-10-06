@@ -17,6 +17,13 @@
 
 I’m a huge fan of **Python, TFLite, PyTorch, OpenCV, Streamlit/FastAPI**, open-source, and writing **testable, reproducible software**.  
 
+
+<p align="center">
+  <!-- Replace src with your GIF path -->
+  <img src="assets/gifs/hero-circuit-code.gif" alt="Coding hero banner" width="100%" />
+</p>
+
+
 ---
 
 ## I’m currently working on
