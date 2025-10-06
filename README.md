@@ -18,7 +18,7 @@
 
 ## About me
 
-I’m a huge fan of **Python, TFLite, PyTorch, OpenCV, Streamlit/FastAPI**, open-source, and writing **testable, reproducible software** 🧪.  
+I’m a huge fan of **Python, TFLite, PyTorch, OpenCV, Streamlit/FastAPI**, open-source, and writing **testable, reproducible software**.  
 
 ---
 
@@ -60,8 +60,6 @@ I’m a huge fan of **Python, TFLite, PyTorch, OpenCV, Streamlit/FastAPI**, open
 - **EduLytics / MuACPA** – Edge-AI classroom analytics *(Pi 5 · TFLite · OpenCV · Firebase)*  
 - **Traffic Signal Analytics** – Lane/speed detection + phase change API *(FastAPI · OpenCV · Docker)*  
 - **PipelineIQ / Spec Assistant** – PDF & spec RAG search *(FAISS/Chroma + OpenAI · Streamlit)*  
-
-> Tip: **Pin** your top 3–4 repos to show them here on your profile.
 
 ---
 
