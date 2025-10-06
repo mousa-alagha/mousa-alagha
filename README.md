@@ -18,12 +18,6 @@
 I’m a huge fan of **Python, TFLite, PyTorch, OpenCV, Streamlit/FastAPI**, open-source, and writing **testable, reproducible software**.  
 
 
-<p align="center">
-  <!-- Replace src with your GIF path -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Coding hero banner" width="100%" />
-</p>
-
-
 ---
 
 ## I’m currently working on
