@@ -3,7 +3,7 @@
 <!-- ——— SOCIAL BADGES ——— -->
 <p align="left">
   <!-- Replace the `#` with your links -->
-  <a href="www.linkedin.com/in/mousa-alagha" target="_blank">
+  <a href="https://www.linkedin.com/in/mousa-alagha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mousa.alaghaa@gmail.com">
