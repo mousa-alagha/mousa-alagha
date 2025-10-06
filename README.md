@@ -47,9 +47,9 @@ I’m a huge fan of **Python, TFLite, PyTorch, OpenCV, Streamlit/FastAPI**, open
 
 ## Tech I use
 
-**Languages:** Python · C/C++ · Swift  
+**Languages:** Python · C/C++ · JAVA · JavaScript  
 **ML/CV:** TensorFlow Lite · PyTorch · OpenCV · MediaPipe  
-**Data/NLP:** FAISS · ChromaDB · OpenAI  
+**Data/NLP:** FAISS · ChromaDB · OpenAI · FireBase
 **Web/APIs:** FastAPI · Streamlit · Flask  
 **DevOps:** Docker · GitHub Actions · Poetry  
 **Edge/Hardware:** Raspberry Pi · ESP32 · Arduino
