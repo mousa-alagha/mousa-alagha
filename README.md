@@ -1,4 +1,4 @@
-# Hi there, my name is **Mousa Alagha**
+# Hi there, it's **Mousa Alagha**
 
 <!-- ——— SOCIAL BADGES ——— -->
 <p align="left">
