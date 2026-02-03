@@ -59,8 +59,9 @@
   <summary><b>GitHub stats</b> (optional)</summary>
   <br/>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mousa-alagha&show_icons=true" height="165" alt="GitHub stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mousa-alagha&show_icons=true&hide_border=true&cache_seconds=86400" height="165" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousa-alagha&layout=compact" height="165" alt="Top languages"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mousa-alagha&layout=compact&hide_border=true&cache_seconds=86400" height="165" />
   </p>
 </details>
+
