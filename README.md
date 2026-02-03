@@ -54,6 +54,10 @@
 - **Collabs** on useful open-source tools & datasets
 
 ---
-<img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mousa-alagha&layout=compact&hide_border=true&cache_seconds=86400" height="165](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)" />
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mousa-alagha&layout=compact&hide_border=true&cache_seconds=86400" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="165" />
+</p>
 
 
