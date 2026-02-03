@@ -1,4 +1,4 @@
-# Mousa Alagha 
+# Mousa Alagha
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mousa-alagha" target="_blank">
@@ -9,40 +9,49 @@
   </a>
 </p>
 
-**AI/ML + Embedded Systems engineer** building **edge AI**, **computer vision**, and **RAG tools** with clean, reproducible code.
+**AI/ML + Embedded Systems engineer** building **edge AI**, **computer vision**, and **applied ML** projects with clean, reproducible code.
 
 ---
 
 ## What I do
-- **Build end-to-end ML systems**: data → training → evaluation → deployment (local or cloud)  
-- **Edge AI & Computer Vision**: real-time pipelines on Raspberry Pi / ESP32 using **TFLite, OpenCV, MediaPipe**  
-- **Model optimization for edge**: quantization, performance tuning, FPS/latency profiling  
-- **Backend APIs & dashboards**: **FastAPI** services + **Streamlit** apps for demos and internal tools  
-- **RAG / Search assistants**: PDF/spec search with **FAISS/Chroma + OpenAI**, chunking, embeddings, retrieval, and UX  
-- **Automation & reproducibility**: clean project structure, configs, tests, and Dockerized runs  
-- **Integration work**: cameras, sensors, Firebase, and “make it actually run in the real world” debugging 
+- Build end-to-end ML systems: **data → training → evaluation → deployment**
+- Build **real-time computer vision** pipelines on edge devices (Raspberry Pi / microcontrollers)
+- Optimize models for edge: **quantization, latency/FPS profiling, performance tuning**
+- Ship practical tools: **FastAPI services**, simple **Streamlit dashboards**, and Dockerized demos
+- Integrate hardware + software: **cameras, sensors, Firebase**, and production-style debugging
 
 ---
 
 ## Featured projects
-- **EduLytics** — low-cost classroom engagement analytics (gaze/emotion/drowsiness) + Firebase  
-- **Traffic Signal Analytics** — lane/speed analytics + signal-phase decisioning served via FastAPI  
-- **PipelineIQ (Spec Assistant)** — PDF/spec RAG search with a simple Streamlit UI  
-
-> Tip: link each project name above to its repo when ready:
-> `[EduLytics](https://github.com/<you>/<repo>)`
+- **[EduLytics (Capstone)](https://github.com/mousa-alagha/Edulytics_Capstone_project)** — Edge-AI classroom analytics (engagement signals + live pipeline)
+- **[PipelineIQ](https://github.com/mousa-alagha/PipelineIQ)** — RAG assistant for PDFs/specs (search + retrieval-focused workflow)
+- **[DDPM ImageGen](https://github.com/mousa-alagha/ddpm-imagegen)** — Diffusion model image generation experiments (DDPM)
+- **[RPi Lane Assist Autonomous Car](https://github.com/mousa-alagha/RPi-based-Lane-Assist-Autonomous-Car)** — Raspberry Pi-based lane assist / autonomous driving prototype
+- **[AI Exercise Recognition Glove](https://github.com/mousa-alagha/AI-Powered-Exercise-Recognition-Glove)** — Sensor-based exercise recognition with ML
 
 ---
 
-## Tech stack (short version)
-**Python • C/C++ • TFLite • PyTorch • OpenCV • FastAPI • Streamlit • Docker • Firebase • Linux**
+## Tech (short)
+**Python • C/C++ • PyTorch • TensorFlow/TFLite • OpenCV • FastAPI • Streamlit • Docker • Linux • Raspberry Pi**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%20Lite-111?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-111?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-111?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
 
 ---
 
 ## Open to
-- **AI/ML roles** (edge AI, computer vision, applied ML)  
-- **Freelance/consulting** (RAG, vision systems, data products)  
-- **Collabs** on useful open-source & datasets  
+- **AI/ML roles** (edge AI, computer vision, applied ML)
+- **Freelance/consulting** (RAG assistants, vision systems, edge deployments)
+- **Collabs** on useful open-source tools & datasets
 
 ---
 
