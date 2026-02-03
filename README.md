@@ -23,11 +23,11 @@
 ---
 
 ## Featured projects
-- **[EduLytics (Capstone)](https://github.com/mousa-alagha/Edulytics_Capstone_project)** — Edge-AI classroom analytics (engagement signals + live pipeline)
-- **[PipelineIQ](https://github.com/mousa-alagha/PipelineIQ)** — RAG assistant for PDFs/specs (search + retrieval-focused workflow)
-- **[DDPM ImageGen](https://github.com/mousa-alagha/ddpm-imagegen)** — Diffusion model image generation experiments (DDPM)
-- **[RPi Lane Assist Autonomous Car](https://github.com/mousa-alagha/RPi-based-Lane-Assist-Autonomous-Car)** — Raspberry Pi-based lane assist / autonomous driving prototype
-- **[AI Exercise Recognition Glove](https://github.com/mousa-alagha/AI-Powered-Exercise-Recognition-Glove)** — Sensor-based exercise recognition with ML
+- **[EduLytics (Capstone)](https://github.com/mousa-alagha/Edulytics_Capstone_project)**: Edge-AI classroom analytics (engagement signals + live pipeline)
+- **[PipelineIQ](https://github.com/mousa-alagha/PipelineIQ)**: RAG assistant for PDFs/specs (search + retrieval-focused workflow)
+- **[DDPM ImageGen](https://github.com/mousa-alagha/ddpm-imagegen)**: Diffusion model image generation experiments (DDPM)
+- **[RPi Lane Assist Autonomous Car](https://github.com/mousa-alagha/RPi-based-Lane-Assist-Autonomous-Car)**: Raspberry Pi-based lane assist / autonomous driving prototype
+- **[AI Exercise Recognition Glove](https://github.com/mousa-alagha/AI-Powered-Exercise-Recognition-Glove)**: Sensor-based exercise recognition with ML
 
 ---
 
