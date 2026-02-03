@@ -1,4 +1,4 @@
-# Mousa Alagha 👋
+# Mousa Alagha 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mousa-alagha" target="_blank">
@@ -20,7 +20,7 @@
 - **Backend APIs & dashboards**: **FastAPI** services + **Streamlit** apps for demos and internal tools  
 - **RAG / Search assistants**: PDF/spec search with **FAISS/Chroma + OpenAI**, chunking, embeddings, retrieval, and UX  
 - **Automation & reproducibility**: clean project structure, configs, tests, and Dockerized runs  
-- **Integration work**: cameras, sensors, Firebase, and “make it actually run in the real world” debugging 😄
+- **Integration work**: cameras, sensors, Firebase, and “make it actually run in the real world” debugging 
 
 ---
 
